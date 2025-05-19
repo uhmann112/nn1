@@ -1,6 +1,8 @@
 
 import numpy as np
 
+ähahahahahahahahahah
+
 
 inputVector = np.array([2, 1.5])
 target = 0
